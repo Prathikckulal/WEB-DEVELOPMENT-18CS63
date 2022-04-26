@@ -1,0 +1,53 @@
+body
+{
+    background-color: aquamarine;
+    padding-left: 5rem;
+    padding-right: 5rem;
+}
+.header
+{
+    background-color: rgb(130, 119, 226);
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+.header1
+{
+    background-color: gray;
+    background-image: linear-gradient(rgb(255, 255, 255), rgb(0, 0, 0));
+}
+.header2
+{
+    background-color: rgb(99, 84, 235);
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+.rname
+{
+    font-style: italic;
+}
+.rname1
+{
+    font-style: italic;
+}
+h1
+{
+    font-size: x-large;
+}
+h2
+{
+    font-size: small ;
+}
+li
+{
+    display: inline;
+}
+.link
+{
+    background-color: antiquewhite;
+}
+.main
+{
+    background-color: aliceblue;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
